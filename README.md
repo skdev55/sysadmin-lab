@@ -1,4 +1,4 @@
-# sysadmin-Lab
+# Sysadmin-Lab
 
 ## Project Description
 SysAdmin This project contains my Linux and system adminastratorn practice work.
